@@ -1,5 +1,5 @@
  Hi, I’m @guicostads (Guilherme).
- I'm learning to code and aspire to be a front-end developer. 
+ I'm learning to code and aspire to be a front-end dev. 
  I’m currently learning the basics.
  You can reach me on guicost98@gmail.com
 
