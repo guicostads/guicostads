@@ -4,7 +4,6 @@
 - You can reach me on guicost98@gmail.com or my LinkedIn Profile: www.linkedin.com/in/guilherme-costa-901653189
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
 
