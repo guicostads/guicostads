@@ -1,9 +1,8 @@
- Hi, I’m @guicostads (Guilherme).
- I'm learning to code and aspire to be a front-end dev. 
- I’m currently learning the basics.
- You can reach me on guicost98@gmail.com
+- Hi, I’m Guilherme.
+- Technology entusiast and passionate about web development.
+- Currently improving my knowledge of HTML, CSS and JavaScript.
+- You can reach me on guicost98@gmail.com or my LinkedIn Profile: www.linkedin.com/in/guilherme-costa-901653189
 
-<!---
-guicostads/guicostads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
+
