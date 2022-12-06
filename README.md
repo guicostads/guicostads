@@ -4,13 +4,9 @@
 - 📫 guicost98@gmail.com
 
 
-<div align="center">
-  <a href="https://github.com/guicostads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicostads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicostads&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias
   <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
