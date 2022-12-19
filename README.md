@@ -1,5 +1,5 @@
 ### Olá, mundo!
-- Dev iniciante no mundo do desenvolvimento front-end.
+- Dev jr., focado no desenvolvimento front-end.
 - Estudando HTML, CSS e JavaScript.
 - 📫 guicost98@gmail.com
 
