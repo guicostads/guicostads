@@ -1,6 +1,6 @@
 ### Olá, mundo!
 - Dev jr., focado no desenvolvimento front-end.
-- Estudando HTML, CSS e JavaScript.
+- Estudando React.
 - 📫 guicost98@gmail.com
 
 
