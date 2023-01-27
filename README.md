@@ -1,5 +1,5 @@
 ### Olá, mundo!
-- Dev jr. focado no desenvolvimento front-end.
+- Dev focado no desenvolvimento front-end.
 - Estudando React.
 - 📫 guicost98@gmail.com
 
