@@ -3,9 +3,11 @@
 - Estudando React.
 - 📫 guicost98@gmail.com
 
+ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicostads)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicostads&theme=transparent&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicostads&layout=compact&theme=transparent)](https://github.com/guicostads/github-readme-stats)
+
 
 ### Tecnologias
   <div style="display: inline_block"><br>
