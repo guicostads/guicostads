@@ -1,5 +1,5 @@
 ### Olá, mundo!
-- Dev focado no desenvolvimento front-end com React.
+- Dev focado no desenvolvimento de interfaces com React.
 - 📫 guicost98@gmail.com
 
  
