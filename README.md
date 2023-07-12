@@ -1,5 +1,5 @@
 ### Olá, mundo!
-- Dev focado no desenvolvimento de interfaces com React.
+- Dev focado no desenvolvimento de interfaces com React e NextJs.
 - 📫 guicost98@gmail.com
 
  
